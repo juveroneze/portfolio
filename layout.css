@@ -94,7 +94,7 @@ h1 {
     animation-timing-function: ease-out;
 }
 
-p#juliana {
+h1 span {
     font-family: 'Poppins', sans-serif;
     color: #825678;
     font-size: 50px;
